@@ -132,6 +132,7 @@
     "metamask-inpage-provider": "^4.0.2",
     "metamask-logo": "^2.1.4",
     "mkdirp": "^0.5.1",
+    "multicodec": "^1.0.0",
     "multihashes": "^0.4.12",
     "nanoid": "^2.1.6",
     "nonce-tracker": "^1.0.0",
